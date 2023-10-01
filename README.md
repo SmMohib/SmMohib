@@ -31,7 +31,7 @@ SM MOHIB</a></h1>
 <p align="center">
 
  <div align="center"  class="icons-social" style="margin-left: 10px;">
-        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/sm-mohib-607682179/">
+        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/smmohib1/">
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
         <a style="margin-left: 10px;" target="_blank" href="https://github.com/SmMohib/">
 		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
@@ -39,7 +39,7 @@ SM MOHIB</a></h1>
 				<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png"></a>
 	   <a style="margin-left: 10px;" target="_blank" href="https://dev.to/100rabhcsmc">
 					<img src="https://img.icons8.com/external-sketchy-juicy-fish/0.6x/external-blog-online-services-sketchy-sketchy-juicy-fish.png"></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://instagram.com">
+        <a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/sm_mohib1/">
 			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
 		<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/100rabhcsmc">
 			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
@@ -56,7 +56,7 @@ SM MOHIB</a></h1>
 ✔ I’m currently learning about **IOS Development**🥰<br>
 ✔ I’m looking to collaborate with any **Android App(Flutter)**<br>
 ✔ Ask from me anything you want, If I am alive I will answer within seconds 😉<br>
-✔ Fun fact : *I Always try to learn something new and then sleep till it store in the brain* 😎<br><br><br><br>
+✔ Fun fact : *I Always try to learn something new and then sleep till it stores in the brain* 😎<br><br><br><br>
  
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***My working tools...***
