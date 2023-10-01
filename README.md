@@ -12,7 +12,7 @@ SM MOHIB</a></h1>
 
 - 🔭 I’m currently working in <a href="https://phoenix.tech/griffyn/" target="blank">Griffyn Robotech Private Limited</a>
 
-- 🌱 I’m currently Working on Mobile App(Flutter)
+- 🌱 I’m currently Working on an Android App Developer(Flutter)
 
 - 🤝 I’m available for freelancing.
 
@@ -24,7 +24,7 @@ SM MOHIB</a></h1>
 
 - 📫 How to reach me **smmohib9419@gmail.com**
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/15qPSnjRtHDLT9F2ZVyhHftS0u_TarGHo/view?usp=sharing" target="blank">Resume</a>
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1ahPGO343ZJEFg0IIjFvU5VDqtdWqzzT3/view?usp=sharing" target="blank">Resume</a>
 <br/>
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
