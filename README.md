@@ -18,13 +18,13 @@ SM MOHIB</a></h1>
 
 - 🌱 I’m currently learning Swift && SwiftUI <a href="https://github.com/SmMohib/" target="blank">100DaysOfSwift</a>
 
-- 📝 I regularly write articles on [https://dev.to/100rabhcsmc](https://dev.to/100rabhcsmc)
+- 📝 I regularly write articles on [https://drive.google.com/file/d/1R-qOBFqOV0n_YIxsJZhvjgaXs_rHmLI9/view?usp=sharing)
 
 - 💬 Ask me about **Flutter**
 
-- 📫 How to reach me **smmohib9419@gmail.com**
+- 📫 How to reach me **smmohib11@gmail.com**
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1ahPGO343ZJEFg0IIjFvU5VDqtdWqzzT3/view?usp=sharing" target="blank">Resume</a>
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1R-qOBFqOV0n_YIxsJZhvjgaXs_rHmLI9/view?usp=sharing" target="blank">Resume</a>
 <br/>
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
